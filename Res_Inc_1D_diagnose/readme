@@ -1,0 +1,7 @@
+put data in ./data/,make one package for every class
+
+run Make_datafile.py and create dataset.csv, ylabel.csv,label.txt under ./data
+
+run Train.py ,model is training
+
+and model.h5 will be saved in ./model

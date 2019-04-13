@@ -1,0 +1,9 @@
+put pincture in train and validation which under pic,pictures classified as first_name,secondname...
+
+run Make_Tfrecord.py,make tfrecords for train.tfrecords and validation.tfrecords,and label.txt will be made under ./pic
+
+run Train.py ,training starts
+
+model is saved in pic/model 
+
+
